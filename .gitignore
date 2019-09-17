@@ -1,0 +1,6 @@
+.DS_Store
+django_permission_demo/__pycache__
+user/__pycache__
+goods/migrations/__pycache__
+goods/__pycache__
+user/migrations/__pycache__
